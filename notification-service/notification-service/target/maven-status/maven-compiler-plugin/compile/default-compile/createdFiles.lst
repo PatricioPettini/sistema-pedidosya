@@ -1,0 +1,10 @@
+com\patopedidosya\notification_service\dto\NotificacionCreateDTO.class
+com\patopedidosya\notification_service\model\CanalNotificacion.class
+com\patopedidosya\notification_service\model\Notificacion.class
+com\patopedidosya\notification_service\repository\INotificacionRepository.class
+com\patopedidosya\notification_service\service\NotificacionService.class
+com\patopedidosya\notification_service\dto\NotificacionReadDTO.class
+com\patopedidosya\notification_service\controller\NotificacionController.class
+com\patopedidosya\notification_service\dto\NotificacionUpdateDTO.class
+com\patopedidosya\notification_service\model\EstadoNotificacion.class
+com\patopedidosya\notification_service\NotificationServiceApplication.class
